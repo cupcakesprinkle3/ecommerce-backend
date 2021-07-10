@@ -6,8 +6,14 @@ This is challenge 13 in the UC Berekely Full Stack Dev Bootcamp. In this challen
 ## Tech Used
 Starter code from the bootcamp, and Express.js, Sequelize, and MySQL.
 
-## Walkthrough Video
-Coming soon
+## Walkthrough Videos
+The free version of Screencastify cuts off at 5min, as such, with a ~6 min film, the demonstration video is in two parts:
+
+Part 1 - Everything required in the complete list of video requirements through POST, PUT, and DELETE for tags
+>> https://drive.google.com/file/d/1yUtdxMF0h2qLYlZFa3IaIAjrn3krP9xr/view (4:57)
+
+Part 2 - POST, PUT, and DELETE for tags
+>> https://drive.google.com/file/d/127QVT0K76yfIQdK925BqOCP0dZWUR2PB/view (1:20)
 
 ## More Commits on Former Repo
 I had some trouble pushing to git when I reverted some of the files to the starter code in an attempt to get the Product and Tag models and routes working. Error message was: 
